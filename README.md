@@ -3,7 +3,7 @@
 </div>
 <div >
     <h2>🚀Some facts about me and my works:</h2>
-  <h2>🚀Some facts about my works:</h2>
+ 
     <p>💻I am a react based junior Front end Developer</p>
     <p>🎨 HTML/CSS for crafting visually appealing and responsive layouts</p>
     <p>🌐 JavaScript to bring interactivity and dynamism to web applications</p>
