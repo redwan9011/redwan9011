@@ -3,8 +3,8 @@
 </div>
 <div >
     <h2>🚀Some facts about my works:</h2>
-    - 💻I am a react based junior Front end Developer
-    - 🎨 HTML/CSS for crafting visually appealing and responsive layouts
+   <p>💻I am a react based junior Front end Developer</p>
+    <p>🎨 HTML/CSS for crafting visually appealing and responsive layouts</p>
   
 </div>
 
