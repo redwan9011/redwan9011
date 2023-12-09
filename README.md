@@ -1,8 +1,10 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/redwan9011/redwan9011/main/Capturesssssssss.PNG" alt="">
 </div>
-<div align="center">
-    <h2>🚀 About Me:</h2>
+<div >
+    <h2>🚀Some facts about my works:</h2>
+    <h5>💻I am a react based junior Front end Developer</h5>
+    <h5>🎨 HTML/CSS for crafting visually appealing and responsive layouts</h5>
 </div>
 
 
