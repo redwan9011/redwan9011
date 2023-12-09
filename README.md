@@ -33,5 +33,5 @@
 
 - 📫 How to reach me **redwan390309@gmail.com**
   
-- 📫 Linkedin <a href="linkedin.com/in/md-redwan-islam-2403b32a4"> Linkeding</a>
+- 📫 Linkedin <a href="linkedin.com/in/md-redwan-islam-2403b32a4"> Linkedin</a>
 
