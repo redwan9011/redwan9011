@@ -30,7 +30,6 @@
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=redwan9011&show_icons=true&locale=en&layout=compact" alt="redwan9011" /></p>
 </div>
 
-https://i.ibb.co/hMfHKVH/P22-8839-May-26-2022-Corner.jpg
 - 📫 How to reach me **redwan390309@gmail.com**
 
 
