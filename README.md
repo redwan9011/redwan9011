@@ -3,9 +3,6 @@
 </div>
 
 
-<h1 align="center">Hi, I'm Redwan Islam</h1>
-<h3 align="center">Front end Developer</h3>
-
 
 <h3 align="center">Current stats</h3>
 <div align="center">
