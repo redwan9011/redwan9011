@@ -2,8 +2,7 @@
 <h3 align="center">Front end Developer</h3>
 
 - 📫 How to reach me **redwan390309@gmail.com**
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=&theme=radical&border_radius=11.7)](https://git.io/streak-stats)
 <p align="left">
 </p>
 
