@@ -10,5 +10,5 @@
 
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=redwan9011&show_icons=true&locale=en&layout=compact" alt="redwan9011" /></p>
 
-##Current Stats
+<h3>Current stats</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redwan9011&" alt="redwan9011" /></p>
